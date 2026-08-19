@@ -19,7 +19,7 @@ Numbering in RAP
 <p>Unmanaged Internal Early numbering - Again not from UI but unmanaged, meaning, developer redefines method and assigns value</p>
 <p> BDEF code </p>
 <p>early numbering must be specified at entity header level</p>
-<p>field ( mandatory : create, readonly : update ) field_name</p>
+<p>field ( readonly ) field_name</p>
 <p>BP code</p>
 <p>redefine and implement FOR NUMBERING method</p>
 
